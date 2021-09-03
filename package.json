@@ -1,0 +1,13 @@
+{
+  "name": "launchbot",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^12.1.1",
+    "node-fetch": "^2.6.0",
+    "spacex-api": "^1.0.1",
+    "whatwg-fetch": "^3.0.0"
+  },
+  "scripts": {
+    "start": "node ."
+  }
+}
